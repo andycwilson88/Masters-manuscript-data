@@ -31,4 +31,4 @@ This is the slope data used in the study.
 Summer Precipitation
 Summer precipitation data is included as individual raster files, from 2001 to 2016. 
 
-Any questinos regarding the data used in this study should be directed to Andy Wilson at andycwilson88@gmail.com
+Any questions regarding the data used in this study should be directed to Andy Wilson at andycwilson88@gmail.com
